@@ -1,0 +1,39 @@
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\bin\Debug\Server.exe.config
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\bin\Debug\Server.exe
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\bin\Debug\Server.pdb
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\bin\Debug\Common.dll
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\bin\Debug\Common.pdb
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\obj\Debug\Server.Server.resources
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\obj\Debug\Server.csproj.CopyComplete
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\obj\Debug\Server.exe
+E:\Dev\DEV\LapTrinhMang\ThuBaiThiDonGian\Server\obj\Debug\Server.pdb
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\obj\Debug\Server.Server.resources
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\obj\Debug\Server.exe
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\obj\Debug\Server.pdb
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\bin\Debug\Server.exe.config
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\bin\Debug\Server.exe
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\bin\Debug\Server.pdb
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\bin\Debug\Common.dll
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\bin\Debug\Common.pdb
+E:\Dev\DEV\LapTrinhMang\DeTai\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\bin\Debug\Server.exe.config
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\bin\Debug\Server.exe
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\bin\Debug\Server.pdb
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\bin\Debug\Common.dll
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\bin\Debug\Common.pdb
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\obj\Debug\Server.Server.resources
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\obj\Debug\Server.exe
+D:\Downloads\LapTrinhMang-master (1)\LapTrinhMang-master\DeTai\Server\obj\Debug\Server.pdb
